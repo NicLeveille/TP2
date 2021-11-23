@@ -1,0 +1,156 @@
+
+.titreBoxMoi{
+    font-family: 'Yaldevi', sans-serif;
+    font-size: 20px;
+    margin-left: 65px;
+    color:rgb(228, 155, 20) ;
+}
+.box1
+{
+    display: grid;
+    grid-template-columns: 10px 480px 300px 10px;
+    max-width: 1100px;
+    
+
+}
+.box2
+{
+    background-color:rgb(228, 155, 20);
+    max-width: 300px; ;
+    text-align: center;
+    border-radius: 5px;
+    height: 30px;
+    font-family: 'Yaldevi', sans-serif; 
+    font-size: 24px;
+    color: white;
+    margin-left: 250px;
+}
+.box3{
+    display: grid;
+    grid-template-columns: 300px 800px;
+    font-family: 'Yaldevi', sans-serif;
+    border-right: 2px solid rgb(173, 108, 10); 
+    max-width: 300px;
+    
+}
+.background
+{
+    background-color: rgba(235, 190, 107, 0.247);
+    width: 70%;
+    height: 100%;
+}
+.darkorange{
+    background-color: rgb(240, 184, 63);
+    height: 240px;
+    width: 15px;
+}
+.darkerorange
+{
+    background-color: rgb(228, 155, 20);
+    height: 140px;
+    width: 15px;
+    margin-top: 50px;
+}
+.profilepic{
+    border: coral 7px solid;
+    border-radius: 190px;
+    width: 190px;
+    margin-top: 20px;   
+    padding: 4px;
+    
+}
+.infos{
+    margin-left: 10px;
+}
+.icons{
+    width: 35px;   
+}
+.fontdarkerorange{
+    color:rgb(184, 126, 18) ;
+    font-size: 60px;
+}
+.fontlightorange{
+    color:rgb(243, 185, 77) ;
+    font-size: 60px;
+}
+.icontext{
+    font-size: 15px;
+    margin-left: 10px;
+    vertical-align: 10px;
+    
+}
+.googlefont1{
+    font-family: 'Quicksand', sans-serif;
+}
+.googlefont2{
+    font-family: 'Yaldevi', sans-serif; 
+}
+.sousTitre{
+    border-radius: 5px;
+    max-width: 250px;
+    height: 25px;
+    color: white;
+    background-color: rgb(173, 108, 10);
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px; 
+}
+.bigsoussoustitre{
+    font-size: 17px;
+    margin-bottom: 7px;
+    
+}
+.fieldsetComp{
+    border: none;
+}
+li{
+    margin-bottom: 7px;
+    margin-top: px;
+}
+.marge{
+    margin-left: 20px;
+    max-width: 450px;
+    
+}
+.sousTitre2{
+    border-radius: 5px;
+    max-width: 350px;
+    height: 25px;
+    color: white;
+    background-color: rgb(173, 108, 10);
+    font-size: 20px;
+    text-align:left;
+    margin-bottom: 20px;    
+}
+.margeST2{
+    margin-left: 10px;
+}
+.bigsoussoustitre2{
+    font-size: 17px;  
+    font-weight: bold;
+    margin-bottom: 4px;
+    
+}
+.date{
+    color: rgb(214, 139, 0);
+    font-weight: bold;
+}
+.bigsoussoustitre3{
+    font-size: 16px;  
+    font-weight: bold;
+    margin-bottom: 4px;
+
+}
+.horizontalCenter{
+    margin: auto;
+    max-width: 807px;
+}
+.margL{
+    margin-left: 7px;
+}
+.margR{
+    margin-right: px;
+}
+.backgroundGris{
+    background-color: rgb(241, 237, 237);
+}
